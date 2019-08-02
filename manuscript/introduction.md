@@ -3,15 +3,16 @@
 # Introduction
 This book discusses the principles of marketing from the perspective of the work done by engineers. As is the case with all books about principles, a large proportion of the text is about theoretical marketing concepts. Theories of marketing are very different from the theories of engineering. Engineering is an applied science that uses physical science and mathematics to achieve objectives. Marketing is an applied social science that uses mathematics sparingly. 
 
-Engineers who understand the theoretical foundations will be able to apply this to their work. Most of engineering methodology is about using theoretical concepts and apply them in a real-world context. Social psychologist Kurt Lewin is famous for pioneering in the field of organisational psychology. He also is often cited for stating:
+Engineers who understand the theoretical foundations will be able to apply this to their work. Most of engineering methodology is about using theoretical concepts and apply them in a real-world context. Social psychologist Kurt Lewin is a famous pioneer in the field of organisational psychology. Besides being known for his research, he also is often cited for stating:
 
 >"a businessman once stated that there is nothing as practical as a good theory".[^lewin]
 
-[^lewin] Billig, M. (2015). The myth of Kurt Lewin and the rhetoric of collective memory in social psychology textbooks. /Theory & Psychology/, 25(6), 703–718. https://doi.org/10.1177/0959354315594255
+[^lewin]: Billig, M. (2015). The myth of Kurt Lewin and the rhetoric of collective memory in social psychology textbooks. _Theory & Psychology_, 25(6), 703–718. [DOI 10.1177/0959354315594255](https://doi.org/10.1177/0959354315594255).
 
-This book most certainly does not aim to provide a complete introduction to marketing for engineers but is simply a teaser to stimulate the reader's curiosity. 
+This book most certainly does not aim to provide a complete introduction to marketing for engineers but is simply a teaser to stimulate the reader's curiosity. The purpose of this book is to provide students and practitioners of engineering with a framework to help them create better products and services.
 
-The remainder of this book consists of four chapters about various aspects of marketing from the perspective of an engineer. 
+The remainder of this book consists of four chapters about various aspects of marketing from the perspective of an engineer.
+
 1. What is marketing?
 2. The marketing process
 3. Delivering value

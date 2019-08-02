@@ -17,8 +17,8 @@ While undertaking an MBA, I was also responsible for managing a team providing s
 
 This experience caused a Copernican Revolution in my understanding what it means to be a civil engineer, moving towards integrating the humanities with the physical sciences. This broader thinking about marketing enabled me to combine my interest in the humanities with my profession. Combining the procedural thinking of engineering with the philosophical method of enquiry is a powerful pathway to foster innovation. This interest eventually resulted in a PhD in business and a book about applying marketing theory in water utilities.[^prevos2017]
 
-[^prevos2017] Peter Prevos (2017). _Customer Experience Management for Water Utilities: Marketing urban water supply_. London: International Water Association.
+[^prevos2017]: Peter Prevos (2017). _Customer Experience Management for Water Utilities: Marketing urban water supply_. London: International Water Association.
 
 Writing this book combines my professional experience as a water engineer with theoretical insights in the science and practice of marketing, inspired by the humanities. As an engineer, I am interested in how my profession influences society and how the theories of marketing can be applied to this industry to maximise value for the community. As a social scientist, I am interested in the role of marketing in contemporary society, with specific reference to public service. The combination of engineering and marketing are not as incompatible as it seems. Marketing is after all, in the words of Kotler and Levy (1969): "customer satisfaction engineering".[^kotler1969]
 
-[^kotler1969] Kotler, P., & Levy, S. J. (1969). Broadening the concept of marketing. _Journal of Marketing_, 33(January), 10--15.
+[^kotler1969]: Kotler, P., & Levy, S. J. (1969). Broadening the concept of marketing. _Journal of Marketing_, 33(January), 10--15.

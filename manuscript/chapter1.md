@@ -1,27 +1,11 @@
 # Marketing and Engineering
 
-
-## Marketing and Engineering
-Marketing and engineering sometimes have a complicated relationship. The two professional groups have different educational backgrounds and work under incommensurable paradigms. Engineers consist of a single professional group with a formalised education in the physical sciences. Although there is variety between the types of engineering, the basic principles and processes are similar across the various disciplines. Marketers stem from more diverse backgrounds. Marketing theory and practice are grounded in the social sciences. 
-
-These different theoretical foundations can lead to tensions because of the different perspectives on the same problem. The physical and social sciences require different ways of thinking. The prime consideration for a marketer is the customer's perception of the product or service that engineers create. Engineers are more often concerned with the internal mechanics of their work. In my work in the water industry, I have often heard engineers proclaim that the opinions of customers have less weight than their perspective.
-
-The two professional groups sometimes have stereotypical views of each other. Qualitative research identified a range of stereotypes the two groups held about each other. Engineers perceived marketers to be arrogant and prone to exaggeration. They perceived marketers to be too emotional, not sufficiently concerned about details and lacking understanding of technology. Negative assessments were symmetrical between groups as marketers described engineers as being too rigid, lacking creativity and having unsuitable social skills. They also found engineers not to be customer-focused and lacking understanding of business requirements.[fn:keav]
-
-[fn:keav] Keaveney, S. M. (2008). The blame game: An attribution theory approach to marketer–engineer conflict in high-technology companies. /Industrial Marketing Management/, 37(6), 653–663. https://doi.org/10.1016/j.indmarman.2008.04.013
-
-Engineering education is becoming much more diverse than it was a few years ago. Engineering students commonly take subjects in business, but marketing is often ignored. A textbook about business skills for utility engineers discusses many different aspects of management, but it omits any reference to marketing. The author suggests that marketing, and other business skills such as ethics and human resources, are "peripheral to most issues facing utility engineers".[fn:brown] The author could not be more wrong about the role of marketing in engineering. Engineering projects are rarely undertaken for the sake of itself, but they are initiated to generate societal or private benefits. Understanding the relationship between these benefits and the engineering product or service is the domain of marketing.
-
-[fn:brown] Brown, R.E. (2010). /Business Essentials for Utility Engineers/. Boca Raton, FL: CRC Press.
-
-Misunderstandings about the nature of marketing and engineering are at the root of most of these tensions. This book is written for engineers to understand better how marketing can help them in their job. This book is also useful for marketers who like to discover their expertise can help engineers create better products and 
-
 ## What is Marketing?
 When asking random people to mention three words that they associate with marketing, they will most certainly say advertising. The scope of the marketing team in an engineering project is more often than not limited to promoting and selling the product or service designed and delivered by engineers. The scope of marketing is, however, broader than communicating with potential and existing customers.
 
 The limited perspective that most people have or marketing is not a surprise. Advertising is ubiquitous, and unless you spend your time in a  cabin in the woods, you see thousands of branded messages each day. Just a simple stroll through the supermarket is like walking through, in the words of Rushkoff, a "blizzard of brands"[^rushkoff]
 
-[^rushkoff] Rushkoff, Douglas. 2000. /Coercion: Why We Listen to What “They” Say/. New York: Riverhead.
+[^rushkoff] Rushkoff, Douglas. 2000. _Coercion: Why We Listen to What “They” Say_. New York: Riverhead.
 
 Marketing is often viewed as synonymous with advertising and only applicable to organisations that maximise sales. Marketing is rightly blamed for being a driving force of wasteful consumerism that promotes false needs. While all these perspectives on marketing are real, this is only a limited view. This narrow perspective of marketing results in it being ignored as a useful tool for engineers. This chapter discusses the definition of marketing to show that marketing skills are indeed relevant to the work of engineers.
 
@@ -55,6 +39,8 @@ Peter Drucker, the father of all management gurus, succinctly described the purp
 #+begin_quote
 "Marketing is so basic that it cannot be considered to be a separate function. It is the whole business seen from the point of view of its final result, that is, from the customer's point of view."
 #+end_quote
+
+# What is engineering?
 
 ## Marketing for Engineers
 This review of the definition of marketing shows that it has more to offer to engineers than spinning stories about how excellent a product or service is. Marketing adds a social dimension to engineering by viewing it from the perspective of the beneficiary. Every engineering project has a beneficiary outside of the project team itself. This could be either an internal customer, individual consumers or a community.

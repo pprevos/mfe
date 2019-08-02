@@ -1,13 +1,4 @@
-#+TITLE: Marketing for Engineers
-#+AUTHOR: Dr Peter Prevos
-#+TODO: DRAFT(d) | EDITED(e)
-:NOTES:
-- Keywords: marketing for engineers, engineering marketing
-- https://leanpub.com/mfe
-:END:
-
-* The Process of Marketing
-** Introduction
+# The Process of Marketing
 It should be clear from the previous chapter that marketing is broader than selling and advertising. These forms for communication are the visible parts of the tip of the iceberg of the whole process of marketing. Before any promotion can take place, marketers need to consider a range of issues. Marketing is a process that creates value for beneficiaries, of which advertising is only a small part. If marketing is more than promotion, then what are these other activities? This chapter discusses the various aspects of marketing that need to be considered to create value.
 
 The AMA definition states that marketing is a process that involves "creating, communicating, delivering, and exchanging" products or services. 
@@ -24,13 +15,15 @@ One of the most common models are the so-called 4Ps or marketing. This model is 
 The terms in brackets show how the definition of marketing relates to the marketing mix. This chapter discusses the four dimensions of the marketing mix and their relevance to engineering. 
 
 These sections only provide a cursory introduction to the topic to motivate the reader to seek further sources of information. Each of these seven sections is potentially a complete university course in itself.
-** Product
+
+## Product
 The marketing mix dimension most obvious to engineers is the product.
 
 When designing services, the product is intangible, which places additional requirements. The share of services over products in the economy has increased steeply over the past few decades. The fast rise of the internet has disrupted the traditional economy of physical products and interactions.
 
 An important aspect to understand is the different perspective that engineers and marketers have of a product or service. 
-** Price
+
+## Price
 One of the common tasks of engineers is to estimate the cost of a project. The task of an engineer is to estimate and control the cost of the development of products and services. Within engineering, the price of a project is considered to be the estimated actual cost plus an allowance for risk and profit. 
 
 While the engineer as an internal view of the cost of a product, marketing tries to look at this problem from the perspective of the 
@@ -55,12 +48,15 @@ An interesting case study in pricing for a market is the Loctite 660 Quick Metal
 
 
 The process of pricing a market offering determines the price that consumers will pay. The cost to a consumer is, however, more than just the monetary component. Other costs that a consumer might experience from purchasing and using a product or service is a time price or a psychological price. The chapter on Delivering Value discusses a more complete model of the price of market offerings.
-** Place
+
+## Place
 The place component of the marketing mix is the most complex 
 Logistics
-** Promotion
+
+## Promotion
 This aspect of marketing is the most visible and thus often confused with 
-** The Marketing Plan
+
+## The Marketing Plan
 
 
 The [[ %09http://www.businessmodelalchemist.com/tools][Business Model Canvas]] by Alexander Osterwalder is a popular model to develop business plans. This model is a customer-focused template that considers all aspects of 
@@ -77,78 +73,3 @@ Each of the eight subcategories have their own box on the template, or canvas. T
 
 The [[http://businessmodelalchemist.com/][Business Model Alchemist]] website has detailed information if you are interested in learning how to use this tool. 
 
-* Delivering value
-** Value is subjective
-A famous cliche in the English language is that "One man's trash is another man's treasure". This idiom evocatively states the same thing can be something valuable for one person, while being worthless for another. This fundamental truth in marketing is no better illustrated than in the world of art. What one person perceives as being just a canvas with random drips and drabs of paint is to another person an invaluable work of art. 
-
-
-The concept of value is inherently subjective but we can say something useful about it. 
-
-If the purpose of marketing is to increase value for the beneficiaries of the process
-** Extended Value Model
-Value is, in economic terms, the difference between benefits and cost. This economic conceptualisation is insufficient because it only incorporates the monetary dimension of value.
-
-- Monetary
-- Time
-- Psychological
-
-*** Monetary value
-Net Present Value calculations
-*** Time 
-** The Value Proposition
-*** Customer Value Proposition
-*** Employee Value Proposition
-*** Value Proposition Canvas
-* Customers
-** Types of customers
-The most neutral word for a customer as the recipient of value from the marketing process is beneficiary. 
-
-Marketing for organisations is quite different to arketing for individual consumers.
-
-B2B
-
-B2C
-
-** Needs and Wants
-#+BEGIN_QUOTE
-Life is pain. Anyone who says differently is selling something. William Goldman: /Four Screenplays with Essays/.
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-Oscar Wilde: Two tragedies in life: Not getting what you want and getting what you want.
-#+END_QUOTE
-** Customer Relationships
-*** Relationship ladder
-
-*** Experience Marketing
-Customer centric approach to marketing .
-- Sense: The sensory experience of using water as a service. Relates directly to taste, odour and colour of the water. Water marketing is like food marketing, with the greatest difference being that water utilities aim to provide a tasteless, odourless and colourless product.
-- Feel: How does the consumer emotionally relate to the services provided by a water utility? This will be discussed in detail in session 3.
-- Think: How does the water utility appeal to the intellect of its customers?
-- Act: Responsible use of water.
-- Relate: What is the relationship between the customer and the water utility? Doe sthis relationship extend beyond the bill?
-
-** The Voice of the Customer
-It is often said that “the customer is always right”. Is this always the case?
-*** Surveys
-*** Observations
-*** Neuromarketing
-*** Big Data
-*** Triple Bottom Line analysis
-A common method in engineering to compare various options is the Triple Bottom Line analysis (TBL). British sustainability expert John Elkington introduced this concept to enhance the monoculture of economic rationalism by 
-
-The theories and models of marketing can help with 
-
-The voice of the customer people aspect of the TBL 
-
-* Engineers and Marketers
-Proponents of engineering often advocate that more people should be studying Science, Technology, Engineering and Mathematics (STEM). In this book I promote that idea that engineers should be studying STEMS and add the social sciences to their corpus of knowledge.
-** Physical Science versus Social Science
-
-Fictional theoretical physicist Dr Sheldon Cooper loathes the social science, or any science that is not theoretical physical for that matter. In episode x of season y he said that "the social sciences are all hokum". 
-
-** Internal marketing
-
-** Engineering-Marketing Interface
-** In conclusion
-This ebook only provides a summary of marketing theory as it applies to the work of engineers. I would love to hear from any engineer and their experinces with 
