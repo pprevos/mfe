@@ -1,5 +1,5 @@
+# The Voice of the Customer
 
-# Customers
 ## Types of customers
 The most neutral word for a customer as the recipient of value from the marketing process is beneficiary. 
 
@@ -10,14 +10,12 @@ B2B
 B2C
 
 ## Needs and Wants
-#+BEGIN_QUOTE
-Life is pain. Anyone who says differently is selling something. William Goldman: /Four Screenplays with Essays/.
-#+END_QUOTE
+>Life is pain. Anyone who says differently is selling something. William Goldman: /Four Screenplays with Essays/.
 
-#+BEGIN_QUOTE
-Oscar Wilde: Two tragedies in life: Not getting what you want and getting what you want.
-#+END_QUOTE
+>Oscar Wilde: Two tragedies in life: Not getting what you want and getting what you want.
+
 ## Customer Relationships
+
 ### Relationship ladder
 
 ### Experience Marketing
@@ -30,10 +28,15 @@ Customer centric approach to marketing .
 
 ## The Voice of the Customer
 It is often said that “the customer is always right”. Is this always the case?
+
 ### Surveys
+
 ### Observations
+
 ### Neuromarketing
+
 ### Big Data
+
 ### Triple Bottom Line analysis
 A common method in engineering to compare various options is the Triple Bottom Line analysis (TBL). British sustainability expert John Elkington introduced this concept to enhance the monoculture of economic rationalism by 
 

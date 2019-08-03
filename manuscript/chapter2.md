@@ -16,6 +16,8 @@ The terms in brackets show how the definition of marketing relates to the market
 
 These sections only provide a cursory introduction to the topic to motivate the reader to seek further sources of information. Each of these seven sections is potentially a complete university course in itself.
 
+## Case Study
+
 ## Product
 The marketing mix dimension most obvious to engineers is the product.
 
@@ -71,5 +73,5 @@ The basic structure of the canvas has four categories:
 
 Each of the eight subcategories have their own box on the template, or canvas. The purpose of the canvas is to collaboratively create a business plan. You could hang an enlarged version of the canvas on a wall and invite your team to add suggestions to each of the eight categories.
 
-The [[http://businessmodelalchemist.com/][Business Model Alchemist]] website has detailed information if you are interested in learning how to use this tool. 
+The [Business Model Alchemist](http://businessmodelalchemist.com/) website has detailed information if you are interested in learning how to use this tool. 
 
