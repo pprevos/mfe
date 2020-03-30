@@ -60,9 +60,9 @@ This aspect of marketing is the most visible and thus often confused with
 
 ## The Marketing Plan
 
-The [Business Model Canvas](http://www.businessmodelalchemist.com/tools) by Alexander Osterwalder is a popular model to develop business plans. This model is a customer-focused template that considers all aspects of 
+The [Business Model Canvas](http://www.businessmodelalchemist.com/tools) by Alexander Osterwalder (Figure x) is a popular model to develop business plans. This model is a customer-focused template that considers all aspects of 
 
-![Model Canvas by Business Model Foundry AG.](images/Business_Model_Canvas.png)
+![Business Model Canvas, by Business Model Alchemist.](images/Business_Model_Canvas.png)
 
 The basic structure of the canvas has four categories:
 - Infrastructure: activities, resources and partners
